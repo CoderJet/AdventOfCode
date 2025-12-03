@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1 - Secret Entrance", "Day 1 - Secret Entrance\Day 1 - Secret Entrance.csproj", "{DEA16934-49C6-4D53-B1CC-B11814ADBE90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 2 - Gift Shop", "Day 2 - Gift Shop\Day 2 - Gift Shop.csproj", "{5183BD43-5FA4-4C8C-AF66-1AB2D4382DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 3 - Lobby", "Day 3 - Lobby\Day 3 - Lobby.csproj", "{27E7BD4E-61CF-4618-AD13-31691DF00F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA16934-49C6-4D53-B1CC-B11814ADBE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA16934-49C6-4D53-B1CC-B11814ADBE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA16934-49C6-4D53-B1CC-B11814ADBE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA16934-49C6-4D53-B1CC-B11814ADBE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5183BD43-5FA4-4C8C-AF66-1AB2D4382DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5183BD43-5FA4-4C8C-AF66-1AB2D4382DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5183BD43-5FA4-4C8C-AF66-1AB2D4382DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5183BD43-5FA4-4C8C-AF66-1AB2D4382DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E7BD4E-61CF-4618-AD13-31691DF00F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E7BD4E-61CF-4618-AD13-31691DF00F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E7BD4E-61CF-4618-AD13-31691DF00F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E7BD4E-61CF-4618-AD13-31691DF00F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
