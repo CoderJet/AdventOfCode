@@ -1,6 +1,4 @@
-﻿using System.Net;
-
-const string testDataSet = "VoltagesTestDataSet.txt";
+﻿const string testDataSet = "VoltagesTestDataSet.txt";
 const string realDataSet = "VoltagesDataSet.txt";
 
 List<string> voltageBanks = [];
