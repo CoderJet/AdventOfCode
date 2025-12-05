@@ -53,5 +53,13 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.env
+
 # Rider
-/.idea*/
+.idea/
